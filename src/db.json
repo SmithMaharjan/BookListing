@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "7",
+      "name": "The Silent Forest",
+      "page": 256,
+      "author": "Emily Carter"
+    },
+    {
+      "id": "12",
+      "name": "Midnight Whispers",
+      "page": 189,
+      "author": "David Mitchell"
+    },
+    {
+      "id": "5",
+      "name": "Echoes of Time",
+      "page": 278,
+      "author": "Maria Gonzalez"
+    }
+  ]
+}
